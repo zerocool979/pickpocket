@@ -1,0 +1,47 @@
+{
+  "device_ips": {
+    "vEthernet (WSL (Hyper-V firewall))": [
+      {
+        "type": "IPv4",
+        "address": "172.22.96.1",
+        "ssh_ready": false
+      }
+    ],
+    "Ethernet 4": [
+      {
+        "type": "IPv4",
+        "address": "192.168.56.1",
+        "ssh_ready": false
+      }
+    ],
+    "Wi-Fi": [
+      {
+        "type": "IPv4",
+        "address": "192.168.1.6",
+        "ssh_ready": false
+      }
+    ],
+    "Loopback Pseudo-Interface 1": [
+      {
+        "type": "IPv4",
+        "address": "127.0.0.1",
+        "ssh_ready": false
+      },
+      {
+        "type": "IPv6",
+        "address": "::1",
+        "ssh_ready": false
+      }
+    ]
+  },
+  "ssh_hosts": [
+    {
+      "ip": "172.22.100.159",
+      "ssh_ready": true
+    }
+  ],
+  "file_structure": {
+    "total_files": 353465,
+    "zip_file": "file_structure.zip"
+  }
+}
