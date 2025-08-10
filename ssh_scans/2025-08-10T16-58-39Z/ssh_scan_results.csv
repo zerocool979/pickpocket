@@ -1,7 +1,0 @@
-Source,Interface,IP Type,IP Address,SSH Ready
-Local Device,vEthernet (WSL (Hyper-V firewall)),IPv4,172.22.96.1,False
-Local Device,Ethernet 4,IPv4,192.168.56.1,False
-Local Device,Wi-Fi,IPv4,192.168.1.6,False
-Local Device,Loopback Pseudo-Interface 1,IPv4,127.0.0.1,False
-Local Device,Loopback Pseudo-Interface 1,IPv6,::1,False
-Network Scan,-,IPv4,172.22.100.159,True
