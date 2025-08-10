@@ -1,0 +1,29 @@
+{
+  "session_info": {
+    "user_name": "beel",
+    "partner_name": "chika",
+    "story_genre": "funny",
+    "user_hobby": "menggambar "
+  },
+  "form_data": {
+    "age": 18.0,
+    "age_o": 18.0,
+    "samerace": 1.0,
+    "go_out": 1.0,
+    "imprace": 5.0,
+    "imprelig": 5.0,
+    "int_corr": 0.95,
+    "attr1_1": 10.0,
+    "sinc1_1": 9.0,
+    "intel1_1": 9.0,
+    "fun1_1": 9.0,
+    "amb1_1": 10.0,
+    "shar1_1": 10.0,
+    "pf_o_att": 9.0,
+    "pf_o_sin": 9.0,
+    "pf_o_int": 9.0,
+    "pf_o_fun": 10.0,
+    "pf_o_amb": 9.0,
+    "pf_o_sha": 9.0
+  }
+}
