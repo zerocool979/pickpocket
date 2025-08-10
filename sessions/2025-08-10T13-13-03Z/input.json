@@ -1,0 +1,29 @@
+{
+  "session_info": {
+    "user_name": "chika",
+    "partner_name": "leo",
+    "story_genre": "funny",
+    "user_hobby": "melihat bulan"
+  },
+  "form_data": {
+    "age": 18.0,
+    "age_o": 19.0,
+    "samerace": 1.0,
+    "go_out": 1.0,
+    "imprace": 5.0,
+    "imprelig": 5.0,
+    "int_corr": 0.97,
+    "attr1_1": 9.0,
+    "sinc1_1": 10.0,
+    "intel1_1": 9.0,
+    "fun1_1": 10.0,
+    "amb1_1": 9.0,
+    "shar1_1": 10.0,
+    "pf_o_att": 10.0,
+    "pf_o_sin": 9.0,
+    "pf_o_int": 10.0,
+    "pf_o_fun": 9.0,
+    "pf_o_amb": 10.0,
+    "pf_o_sha": 9.0
+  }
+}
